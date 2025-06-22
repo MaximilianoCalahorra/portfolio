@@ -1,12 +1,55 @@
-# React + Vite
+# Portfolio de Maximiliano Calahorra
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es mi sitio web personal donde presento mi perfil, proyectos, tecnologías que manejo y formas de contacto. Fue desarrollado utilizando React y Vite, con un enfoque simple, profesional y responsive.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tecnologías principales
 
-## Expanding the ESLint configuration
+- React
+- Vite
+- HTML, CSS, JavaScript
+- GitHub Pages / Vercel (para despliegue)
+- Icons locales y SVG optimizados
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧱 Estructura del proyecto
+📁 portfolio/  
+├── 📂 public/  
+│ └── 📁 tech-icons/  
+│  
+├── 📂 src/  
+│ ├── 📁 components/  
+│ ├── 📁 sections/  
+│ ├── 📄 App.jsx  
+│ └── 📄 main.jsx  
+│  
+├── 📄 index.html  
+├── 📄 vite.config.js  
+└── 📄 README.md  
+
+---
+
+## 🖼️ Secciones del sitio
+
+- **Hero**: Presentación con nombre, título, frase personal y enlaces a CV, GitHub y LinkedIn.
+- **Sobre mí**: Descripción de mi formación, intereses y enfoque como desarrollador.
+- **Proyectos**: Muestra de algunos trabajos personales o académicos.
+- **Tech Stack**: Herramientas y tecnologías agrupadas por categoría.
+- **Contacto**: Formas de contactarme.
+
+---
+
+## 🔗 Ver online
+
+👉 [Enlace al sitio desplegado](https://TU-URL-AQUI.vercel.app)
+
+---
+
+## 🧑‍💻 Autor
+
+**Maximiliano Calahorra**  
+- [LinkedIn](https://linkedin.com/in/maximiliano-calahorra)  
+- [GitHub](https://github.com/MaximilianoCalahorra)  
+- 📧 maximilianocalahorra@gmail.com
