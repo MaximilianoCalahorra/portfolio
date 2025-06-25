@@ -8,9 +8,11 @@ Este es mi sitio web personal donde presento mi perfil, proyectos, tecnologías 
 
 - React
 - Vite
-- HTML, CSS, JavaScript
-- GitHub Pages / Vercel (para despliegue)
+- HTML, CSS, JavaScript, Tailwind
+- Vercel
 - Icons locales y SVG optimizados
+- AOS
+- Lucide-React
 
 ---
 
@@ -20,13 +22,14 @@ Este es mi sitio web personal donde presento mi perfil, proyectos, tecnologías 
 │ └── 📁 tech-icons/  
 │  
 ├── 📂 src/  
-│ ├── 📁 components/  
-│ ├── 📁 sections/  
+│ ├── 📁 components/   
 │ ├── 📄 App.jsx  
-│ └── 📄 main.jsx  
+│ └── 📄 main.jsx 
+| └── 📄 index.css  
 │  
 ├── 📄 index.html  
-├── 📄 vite.config.js  
+├── 📄 vite.config.js
+├── 📄 tailwind.config.js    
 └── 📄 README.md  
 
 ---
@@ -43,13 +46,13 @@ Este es mi sitio web personal donde presento mi perfil, proyectos, tecnologías 
 
 ## 🔗 Ver online
 
-👉 [Enlace al sitio desplegado](https://TU-URL-AQUI.vercel.app)
+👉 [Enlace al sitio desplegado](https://maximilianocalahorra.vercel.app)
 
 ---
 
 ## 🧑‍💻 Autor
 
 **Maximiliano Calahorra**  
-- [LinkedIn](https://linkedin.com/in/maximiliano-calahorra)  
-- [GitHub](https://github.com/MaximilianoCalahorra)  
+- 💼 [LinkedIn](https://linkedin.com/in/maximiliano-calahorra)  
+- 💻 [GitHub](https://github.com/MaximilianoCalahorra)  
 - 📧 maximilianocalahorra@gmail.com
