@@ -9,13 +9,8 @@ function TechStack() {
         <div className="flex flex-wrap gap-4 gap-y-6">
           <img src="/tech-icons/backend/java.svg" title="Java" alt="Java" className="h-12 sm:h-14 p-1 hover:scale-110 transition duration-300" />
           <img src="/tech-icons/backend/hibernate.svg" title="Hibernate" alt="Hibernate" className="h-12 sm:h-14 p-1 hover:scale-110 transition duration-300" />
-          <img src="/tech-icons/backend/spring.svg" title="Spring" alt="Spring" className="h-12 sm:h-14 p-1 hover:scale-110 transition duration-300" />
-          <img src="/tech-icons/backend/graphql.svg" title="GraphQL" alt="GraphQL" className="h-12 sm:h-14 p-1 hover:scale-110 transition duration-300" />
-          <img src="/tech-icons/backend/netsjs.svg" title="Nest.js" alt="Nest.js" className="h-12 sm:h-14 p-1 hover:scale-110 transition duration-300" />
-          <img src="/tech-icons/backend/express.svg" title="Express.js" alt="Express.js" className="h-12 sm:h-14 p-1 hover:scale-110 transition duration-300" />
-          <img src="/tech-icons/backend/apollo.svg" title="Apollo" alt="Apollo" className="h-12 sm:h-14 p-1 hover:scale-110 transition duration-300" />
+          <img src="/tech-icons/backend/mongoose.png" title="Mongoose" alt="Mongoose" className="h-12 sm:h-14 p-1 hover:scale-110 transition duration-300" />
           <img src="/tech-icons/backend/c.svg" title="C" alt="C" className="h-12 sm:h-14 p-1 hover:scale-110 transition duration-300" />
-          <img src="/tech-icons/backend/codeigniter.svg" title="CodeIgniter" alt="CodeIgniter" className="h-12 sm:h-14 p-1 hover:scale-110 transition duration-300" />
           <img src="/tech-icons/backend/php.svg" title="PHP" alt="PHP" className="h-12 sm:h-14 p-1 hover:scale-110 transition duration-300" />
           <img src="/tech-icons/backend/python.svg" title="Python" alt="Python" className="h-12 sm:h-14 p-1 hover:scale-110 transition duration-300" />
         </div>
@@ -27,10 +22,22 @@ function TechStack() {
           <img src="/tech-icons/frontend/html.svg" title="HTML" alt="HTML" className="h-12 sm:h-14 p-1 hover:scale-110 transition duration-300" />
           <img src="/tech-icons/frontend/js.svg" title="JavaScript" alt="JavaScript" className="h-12 sm:h-14 p-1 hover:scale-110 transition duration-300" />
           <img src="/tech-icons/frontend/ts.svg" title="TypeScript" alt="TypeScript" className="h-12 sm:h-14 p-1 hover:scale-110 transition duration-300" />
-          <img src="/tech-icons/frontend/react.svg" title="React" alt="React" className="h-12 sm:h-14 p-1 hover:scale-110 transition duration-300" />
           <img src="/tech-icons/frontend/css.svg" title="CSS" alt="CSS" className="h-12 sm:h-14 p-1 hover:scale-110 transition duration-300" />
-          <img src="/tech-icons/frontend/tailwind.svg" title="Tailwind" alt="Tailwind" className="h-12 sm:h-14 p-1 hover:scale-110 transition duration-300" />
           <img src="/tech-icons/frontend/md.svg" title="Markdown" alt="Markdown" className="h-12 sm:h-14 p-1 hover:scale-110 transition duration-300" />
+        </div>
+      </div>
+
+      <div>
+        <h3 className="text-xl sm:text-2xl font-semibold mb-4 text-blue-300 border-b border-zinc-600 pb-1">⚙️ Frameworks y librerías</h3>
+        <div className="flex flex-wrap gap-4 gap-y-6">
+          <img src="/tech-icons/frameworks/spring.svg" title="Spring" alt="Spring" className="h-12 sm:h-14 p-1 hover:scale-110 transition duration-300" />
+          <img src="/tech-icons/frameworks/netsjs.svg" title="NestJS" alt="NestJS" className="h-12 sm:h-14 p-1 hover:scale-110 transition duration-300" />
+          <img src="/tech-icons/frameworks/graphql.svg" title="GraphQL" alt="GraphQL" className="h-12 sm:h-14 p-1 hover:scale-110 transition duration-300" />
+          <img src="/tech-icons/frameworks/apollo.svg" title="Apollo" alt="Apollo" className="h-12 sm:h-14 p-1 hover:scale-110 transition duration-300" />
+          <img src="/tech-icons/frameworks/express.svg" title="Express" alt="Express" className="h-12 sm:h-14 p-1 hover:scale-110 transition duration-300" />
+          <img src="/tech-icons/frameworks/react.svg" title="React" alt="React" className="h-12 sm:h-14 p-1 hover:scale-110 transition duration-300" />
+          <img src="/tech-icons/frameworks/tailwind.svg" title="Tailwind" alt="Tailwin" className="h-12 sm:h-14 p-1 hover:scale-110 transition duration-300" />
+          <img src="/tech-icons/frameworks/codeigniter.svg" title="CodeIgniter" alt="CodeIgniter" className="h-12 sm:h-14 p-1 hover:scale-110 transition duration-300" />
         </div>
       </div>
 
@@ -73,6 +80,7 @@ function TechStack() {
         <div className="flex flex-wrap gap-4 gap-y-6">
           <img src="/tech-icons/testing/junit.svg" title="JUnit" alt="JUnit" className="h-12 sm:h-14 p-1 hover:scale-110 transition duration-300" />
           <img src="/tech-icons/testing/mockito.png" title="Mockito" alt="Mockito" className="h-12 sm:h-14 p-1 hover:scale-110 transition duration-300" />
+          <img src="/tech-icons/testing/postman.svg" title="Postman" alt="Postman" className="h-12 sm:h-14 p-1 hover:scale-110 transition duration-300" />
         </div>
       </div>
 
@@ -82,6 +90,8 @@ function TechStack() {
           <img src="/tech-icons/tools/discord.svg" title="Discord" alt="Discord" className="h-12 sm:h-14 p-1 hover:scale-110 transition duration-300" />
           <img src="/tech-icons/tools/slack.svg" title="Slack" alt="Slack" className="h-12 sm:h-14 p-1 hover:scale-110 transition duration-300" />
           <img src="/tech-icons/tools/windows.svg" title="Windows" alt="Windows" className="h-12 sm:h-14 p-1 hover:scale-110 transition duration-300" />
+          <img src="/tech-icons/tools/trello.svg" title="Trello" alt="Trello" className="h-12 sm:h-14 p-1 hover:scale-110 transition duration-300" />
+          <img src="/tech-icons/tools/virtualbox.svg" title="VirtualBox" alt="VirtualBox" className="h-12 sm:h-14 p-1 hover:scale-110 transition duration-300" />
           <img src="/tech-icons/tools/blender.svg" title="Blender" alt="Blender" className="h-12 sm:h-14 p-1 hover:scale-110 transition duration-300" />
         </div>
       </div>
